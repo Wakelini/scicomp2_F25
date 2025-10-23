@@ -8,7 +8,11 @@
   "features": {
     "ghcr.io/rocker-org/devcontainer-features/apt-packages:1": {
         "packages": "libhdf5-dev,ffmpeg"
+<<<<<<< HEAD
     }
+=======
+    },
+>>>>>>> upstream/main
   },
   "hostRequirements": {
     "cpus": 2
